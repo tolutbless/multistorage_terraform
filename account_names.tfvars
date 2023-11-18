@@ -1,0 +1,1 @@
+account_names = ["alpha", "beta", "gamma", "delta"]
